@@ -7,7 +7,7 @@ FLAGS = -g -c -Wall
 all: $(OBJS)
 	$(CC) -g $(OBJS) -o $(OUT) $(LFLAGS)
 
-hello_world.o: basic_operations.cpp
+basic_operations.o: basic_operations.cpp
 	$(CC) $(FLAGS) basic_operations.cpp -std=c++11
 
 clean:
