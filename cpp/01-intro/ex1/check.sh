@@ -2,9 +2,7 @@
 
 # recompilam in cazul in care s-a uitat
 make clean
-sleep 1
 make
-sleep 1
 
 # executam programul
 output=$(./hello.bin 2>/dev/null)
