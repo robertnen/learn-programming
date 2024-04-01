@@ -2,6 +2,7 @@
 #define _UTILS_H_ 1
 
     #include <iostream>
+    #include <fstream>
 
     const std::string EXPRESIE = "Inlocuieste aici";
     const int INLOCUIESTE = -1;
