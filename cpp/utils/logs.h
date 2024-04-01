@@ -1,8 +1,7 @@
 #ifndef _UTILS_H_
 #define _UTILS_H_ 1
 
-    #include <iostream>
-    #include <fstream>
+    #include <bits/stdc++.h>
 
     const std::string EXPRESIE = "Inlocuieste aici";
     const int INLOCUIESTE = -1;
