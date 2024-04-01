@@ -1,0 +1,5 @@
+Suma este: 18
+Diferenta este: -8
+Produsul este: 65
+Maximul este: 13
+Minimul este: 5
